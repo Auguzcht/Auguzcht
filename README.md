@@ -65,17 +65,17 @@
   <div align="center">
     <span>
       <a href="https://github.com/Auguzcht">
-        <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auguzcht&langs_count=8&layout=compact&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=c3e88d&icon_color=ffcb6b" alt="top langs" />
+        <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auguzcht&langs_count=8&layout=compact&theme=tokyonight&border_radius=15&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=ffffff&icon_color=ffcb6b" alt="top langs" />
       </a>
     </span>
     <span>
       <a href="https://github.com/Auguzcht">
-        <img width="410" src="https://github-readme-stats.vercel.app/api?username=auguzcht&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=15&bg_color=0d1117&title_color=c792ea&text_color=c3e88d&icon_color=ffcb6b" alt="readme stats" />
+        <img width="410" src="https://github-readme-stats.vercel.app/api?username=auguzcht&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=15&bg_color=0d1117&title_color=c792ea&text_color=ffffff&icon_color=ffcb6b" alt="readme stats" />
       </a>
     </span>
     <span>
       <a href="https://github.com/Auguzcht">
-        <img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=auguzcht&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&card_width=495&background=0d1117&ring=c792ea&fire=ffcb6b&currStreakLabel=c792ea&sideLabels=c3e88d&currStreakNum=c3e88d&sideNums=c3e88d" alt="streak stats" />
+        <img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=auguzcht&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&card_width=495&background=0d1117&ring=c792ea&fire=ffcb6b&currStreakLabel=c792ea&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="streak stats" />
       </a>
     </span>
   </div>
