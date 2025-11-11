@@ -15,7 +15,7 @@
 <a href="https://huggingface.co/Auguzcht" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000" alt="HuggingFace" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://github.com/Auguzcht" target="_blank"><img align='right' src='./Pixel-Kirby.gif' width='250'></a>
+<a href="https://github.com/Auguzcht" target="_blank"><img align='right' src='./Pixel-Kirby.gif' width='200'></a>
 
 <h3>A Full-Stack Developer</h3>
 
