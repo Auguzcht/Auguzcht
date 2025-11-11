@@ -1,20 +1,72 @@
-# Hey there, I'm Fred! 🌟  
-A Computer Science student with a passion for **Full-stack Development**. My journey blends the creativity of a HUMSS graduate and the analytical rigor of technology. 🎨💻
+<a href="https://github.com/Auguzcht">
+  <img
+    alt="Alfred Nodado"
+    src="./Afred-Nodado-Banner.jpeg"
+    width="100%"
+  />
+</a>
 
----
+<br/>
 
-## 🖥️ **Primary Tech Stack**
+[![Visits Badge](https://komarev.com/ghpvc/?username=auguzcht&label=Profile%20views&color=red&style=for-the-badge)](https://github.com/Auguzcht)
+<a href="https://x.com/alfred_nodado" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" alt="Alfred Nodado | Twitter" ></img></a>
+<a href="https://linkedin.com/in/alfred-nodado-b24647251" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="Alfred Nodado | Linkedin" /></a>
+<a href="https://github.com/Auguzcht" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Alfred Nodado | GitHub" /></a>
+<a href="https://www.instagram.com/alfred_nodado/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Alfred Nodado | Instagram" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://github.com/Auguzcht" target="_blank"><img align='right' src='./Pixel-Kirby.gif' width='250'></a>
 
-| **Area**              | **Tools & Technologies**                                                                                 |
-|-----------------------|---------------------------------------------------------------------------------------------------------|
-| **Programming Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="50" alt="Python"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="50" alt="Java"/> <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" height="50" alt="C#"/> |
-| **Front-end**          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" alt="React"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="TailwindCSS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" height="50" alt="ViteJS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" height="50" alt="MUI"/> <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" height="50" alt="Framer"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" height="50" alt="Vercel"/> |
-| **Back-end**           | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="50" alt="Microsoft SQL Server"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql"/> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" height="50" alt="Firebase"/> <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" height="50" alt="Supabase"/> <img src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg" height="50" alt="Railway"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="NodeJS"/>   |
-| **Tools**              | <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height="50" alt="Canva"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="50" alt="Git"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50" alt="Figma"/> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" height="50" alt="Adobe Illustrator"/>|
+<h3>A Full Stack Developer</h3>
 
----
+- 🌱 I'm currently learning **Full-stack Development**
 
-## 📫 **Connect with Me!**
+- 👨‍💻 Computer Science student blending creativity and technology
 
-- [LinkedIn](https://www.linkedin.com/in/alfred-nodado-b24647251)
-- [Email](mailto:alfredndado@gmail.com)
+- 🎨 Background in HUMSS with a passion for design and development
+
+- 📫 How to reach me **alfredndado@gmail.com**
+
+<br/>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<p align="left">
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite,materialui,framer,figma,canva,illustrator,nodejs,mysql,postgresql,firebase,supabase,railway,python,java,csharp,git,github,vercel&theme=dark&titles=true)](https://github.com/Auguzcht)
+
+</p>
+
+<br/>
+
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <b>Stats Overview</b>
+
+  
+  </summary>
+
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <div align="center">
+    <span>
+      <a href="https://github.com/Auguzcht">
+        <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auguzcht&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      </a>
+    </span>
+    <span>
+      <a href="https://github.com/Auguzcht">
+        <img width="410" src="https://github-readme-stats.vercel.app/api?username=auguzcht&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+      </a>
+    </span>
+    <span>
+      <a href="https://github.com/Auguzcht">
+        <img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=auguzcht&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+      </a>
+    </span>
+  </div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
