@@ -43,7 +43,7 @@
 
 <p align="left">
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,js,ts,react,nextjs,threejs,tailwind,bootstrap,vite,materialui,framer,reactquery,zustand,figma,canva,adobesuite,nodejs,mysql,postgresql,firebase,supabase,railway,python,java,cs,kotlin,swift,dart,docker,kubernetes,git,github,githubactions,vercel,cloudflare,bash,prometheus&theme=dark&titles=true)](https://github.com/Auguzcht)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,scss,js,ts,react,nextjs,threejs,tailwind,bootstrap,vite,materialui,framer,reactquery,zustand,figma,canva,illustrator,nodejs,mysql,postgresql,firebase,supabase,railway,python,java,cs,kotlin,swift,dart,docker,kubernetes,git,github,githubactions,vercel,cloudflare,bash,jenkins,prometheus,pytorch,tensorflow&theme=dark&titles=true)](https://github.com/Auguzcht)
 
 </p>
 
